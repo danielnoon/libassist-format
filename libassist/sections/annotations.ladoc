@@ -1,0 +1,19 @@
++++section
+title: Annotations
++++
+
+In LADoc, annotations explain what the following content is.
+For example, at the very beginning of a main project file should be a project annotation.
+Project annotations contain the name, package id, media directory, etc.
+
+Here's an example of a project annotation.
+
+```ladoc
+\+++project
+name: Ionic
+package: com.ionic.framework
+media: media
++++
+```
+
+As you can see, annotations are set aside by three pluses. 

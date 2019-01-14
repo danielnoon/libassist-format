@@ -1,0 +1,13 @@
++++project
+name: LibAssist Format
+package: com.supermegadex.libassist
+description: How to write documentation in LADoc.
++++
+
++++include
+file: sections/about
++++
+
++++include
+file: sections/annotations
++++

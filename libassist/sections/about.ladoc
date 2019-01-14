@@ -1,0 +1,33 @@
++++section
+title: About
++++
+
+### What is LibAssist?
+
+LibAssist is a documentation format and application for viewing such files.
+This document is about writing documentation in the LibAssist format.
+
+Don't be afraid of writing LADoc (short for LibAssist Documentation).
+Really, it's just Markdown with LADoc "annotations:"
+blocks of keys and values that describe the content that follows.
+
+### What is LibAssist for?
+
+I made LibAssist because sometimes I hated reading documentation.
+Not always--there's plenty of good documentation out there.
+In fact, I based the UI on such documentation.
+I made LibAssist as a standard way to read and write documentation
+
+If you write documentation, LADoc is for you.
+I want it to be easy to write, especially for documentation authors.
+It is easy to create sections, write *live* code examples in *any* language, and keep your source organized.
+
+### Who made this?
+
+Hi! I'm Daniel Noon.
+Find me on [GitHub](https://github.com/Supermegadex) or check out [my website](https://supermegadex.net).
+
+Also, I'm always looking for feedback!
+Leave an issue on the [Project's GitHub](https://github.com/Supermegadex/libassist-format) 
+for feedback and feature requests.
+If you want to contribute, visit [the main project's page](https://github.com/Supermegadex/libassist-client).

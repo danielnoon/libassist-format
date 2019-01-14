@@ -1,0 +1,14 @@
++++project
+name: Catan
+description: Catan Rulebook
+package: com.teuber.catan
+assets: assets
++++
+
++++include
+file: sections/general
++++
+
++++include
+file: sections/turns
++++

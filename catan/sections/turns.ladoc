@@ -1,0 +1,35 @@
++++section
+title: Taking Turns
++++
+
+### Overview
+* You must roll for resource production
+* You may trade resource cards with other players and/or use maritime trade
+* You may build roads, settlements, or cities and/or buy development cards.  
+You may also play one development card at any time during your turn.
+
+### Details
+#### 1. Resource Production
+You begin your turn by rolling both dice. The sum of the dice determines which terrain hexes produce resources.
+
+Each player who has a settlement that borders a terrain hex marked with the number rolled receives one resource card of the hex's type.
+
++++example
+name: Catan Program
+template: node
+type: node
++++
+
+```javascript:app.js
+console.log("this is catan!!");
+```
+
+```json:package.json
+{
+  "name": "catan",
+  "author": "Daniel Noon",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
+```
